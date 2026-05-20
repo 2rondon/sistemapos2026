@@ -20,4 +20,9 @@ Productos-- En esta sección se agregaran productos al sistema
 ![imagen alt](https://github.com/2rondon/sistemapos2026/blob/38b39dfcb64643a7364c7f44c3b5ac9c7b02ca23/productos.png)
 
 
+Configuración del sistema-- Solo el Administrador puede Configurar
+
+![imagen alt](https://github.com/2rondon/sistemapos2026/blob/d976b3aa1544a9c2beeb9143572a8bada9ca2eab/Setting.png)
+
+
 
