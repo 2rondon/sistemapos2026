@@ -15,4 +15,9 @@ Registrar ventas -- Aqui se Manejan las Ventas del Sistema
 ![imagen alt](https://github.com/2rondon/sistemapos2026/blob/ab591ac73d52eebe377ffc04fca5d7e46a528a62/Registrar%20ventas.png)
 
 
+Productos-- En esta sección se agregaran productos al sistema
+
+![imagen alt](https://github.com/2rondon/sistemapos2026/blob/38b39dfcb64643a7364c7f44c3b5ac9c7b02ca23/productos.png)
+
+
 
