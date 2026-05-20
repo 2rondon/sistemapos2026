@@ -20,6 +20,11 @@ Productos-- En esta sección se agregaran productos al sistema
 ![imagen alt](https://github.com/2rondon/sistemapos2026/blob/38b39dfcb64643a7364c7f44c3b5ac9c7b02ca23/productos.png)
 
 
+Usuarios-- En esta Sección se pueden visualizar los usuarios y sus roles en el sistema
+
+![imagen alt](https://github.com/2rondon/sistemapos2026/blob/478b822cadfc971f296d18f5daaa8aa925179fc7/User.png)
+
+
 Configuración del sistema-- Solo el Administrador puede Configurar
 
 ![imagen alt](https://github.com/2rondon/sistemapos2026/blob/d976b3aa1544a9c2beeb9143572a8bada9ca2eab/Setting.png)
