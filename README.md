@@ -50,4 +50,5 @@ ingresar licencia 42379CCB889B493D3A8DE40B78B7E346 para uso en tu dispositivo
 6. Fin (podras ingresar productos, realizar ventas, imprimir tiket cuando se realice la venta)
 7. no podras Agregar usuarios, crear nuevas licencias.
 
-para solicitar usuario admin  y contraseña de administrador contactar anderson.rondon256@gmail.com
+Usuario: Admin
+Contraseña admin123
